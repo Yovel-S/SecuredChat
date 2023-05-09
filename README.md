@@ -1,6 +1,6 @@
 
-Secured 2FA chat infrastructure.
-May be used as an infrastructure for server-client or p2pa pplication
+## Secured 2FA chat infrastructure.
+## May be used as an infrastructure for server-client or p2pa pplication
 
 # Prerequisites:
 
